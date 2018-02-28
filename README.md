@@ -1,4 +1,4 @@
 # Webpage
 First computer studies project
 
-[Web Link](https://delelaniyan-github/file-management.html)
+[weblink](https://delelaniyan-github/file-management.html)
